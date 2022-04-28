@@ -1,7 +1,11 @@
+import './Footer.css';
+
 const Footer = () => {
     return (
-        <div>Footer</div>
-    )
+        <footer>
+            <p>2022 Choi Ja eun. All rights reserved.</p>
+        </footer>
+    );
 }
 
 export default Footer;
